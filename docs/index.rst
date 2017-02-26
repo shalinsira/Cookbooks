@@ -6,10 +6,16 @@
 HEROES Academy Computer Science Cookbooks
 =========================================
 
+Welcome to the HEROES Cookbook.  For now, there is only the essentials of Python.
+
+You should use these examples as part of your problem solving.  You should ask yourself
+"what is it that I need to do?" and then find an example that does what you need to do.
+Using that example as a guide, you can then write code that does what you want!
+
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    python_essentials/index.rst
    
