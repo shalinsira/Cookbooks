@@ -2,16 +2,15 @@ Python Essentials
 =================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: Variables
-   
    
    types
    bool
    containers
    
 .. toctree:: 
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: Code Structure
 
    conditionals
