@@ -1,5 +1,5 @@
-Classes Cookbook
-================
+Classes
+=======
 
 Design patterns and examples for classes!  Use these to help you solve problems.
 

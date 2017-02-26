@@ -5,7 +5,7 @@ Python Essentials
    :maxdepth: 1
    :caption: Variables
    
-   types
+   primitives
    bool
    containers
    
@@ -17,3 +17,12 @@ Python Essentials
    loops
    functions
    classes
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Using Libraries
+   
+   builtin_functions
+   builtin_modules
+   
+   
