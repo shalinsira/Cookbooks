@@ -12,10 +12,10 @@ You should use these examples as part of your problem solving.  You should ask y
 "what is it that I need to do?" and then find an example that does what you need to do.
 Using that example as a guide, you can then write code that does what you want!
 
-Contents:
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    
    python_essentials/index.rst
    
