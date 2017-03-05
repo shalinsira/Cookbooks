@@ -25,7 +25,6 @@ to make it act like Python 3.
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Tutorials
    
-   tutorials/planning.rst
+   tutorials/index.rst
 
