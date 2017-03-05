@@ -13,8 +13,8 @@ You should use these examples as part of your problem solving.  You should ask y
 Using that example as a guide, you can then write code that does what you want!
 
 Note: If you are using Python 2, there are a couple built-in commands
-that change when using Python 3. But luckily, you can use the following code
-to make it act like Python 3!
+that change when using Python 3. But, there is some (coming soon) code
+to make it act like Python 3. 
 
 .. toctree::
    :maxdepth: 1
