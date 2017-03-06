@@ -16,7 +16,8 @@ Python Essentials
    conditionals
    loops
    functions
-   classes
+   simple_classes
+   advanced_classes
    
 .. toctree::
    :maxdepth: 1
@@ -25,4 +26,8 @@ Python Essentials
    builtin_functions
    builtin_modules
    
+.. toctree::
+   :maxdepth: 1
+   :caption: Working with files
    
+   file_basics

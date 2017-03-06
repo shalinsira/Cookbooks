@@ -12,3 +12,4 @@ Tutorials
    :caption: Text-Based
 
    interactive_stories
+   ciphers

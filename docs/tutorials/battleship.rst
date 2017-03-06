@@ -46,13 +46,10 @@ Starting a game and Randomizing
     cell_string = "{}{}".format(letter, number)
     
     ## now that you have a letter and a number, how do you place the ships?
-    ## it might be
     
     
 Testing with a dictionary
 -------------------------
-
-
 
 
 .. code-block:: python
