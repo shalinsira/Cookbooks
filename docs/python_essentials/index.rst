@@ -31,3 +31,4 @@ Python Essentials
    :caption: Working with files
    
    file_basics
+   json_files
