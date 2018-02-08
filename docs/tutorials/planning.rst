@@ -33,6 +33,8 @@ You can do whichever you want.
 
 `This page has really good, simple examples of flow charts <https://www.programiz.com/article/flowchart-programming>`_ 
 
+`This page has a complete master guide on how to draw flowcharts with templates and examples <https://creately.com/blog/diagrams/flowchart-guide-flowchart-tutorial>`_
+
 There are several kinds of shapes in the flow charts:
 
 Ovals are start/end points
